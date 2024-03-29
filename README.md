@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **React, APIs, and Advanced C#**
 
-💬 Ask me about **Node.js, C#, Java, Javascript [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, C#, Java, Javascript [here](https://github.com/noahnightmare/noahnightmare/issues)**
 
-⚡ Fun fact **I own, manage & develop for an SCP:SL server - creating a variety of complex plugins to enhance the user experiences of our players.**
+⚡ **I own, manage & develop for an SCP:SL server - [Noah's Nation](https://discord.gg/noahsnation)**
 
  </div>
  
