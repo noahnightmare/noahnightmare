@@ -4,19 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=35&duration=4000&pause=1000&color=950000&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+my+profile.+%F0%9F%91%8B;I'm+Noah.+%F0%9F%96%A4;Aspiring+Full+Stack+Developer.+%F0%9F%9A%80;AI+Enthusiast.+%F0%9F%A4%96;Let's+connect!+%F0%9F%94%97;" />
 </h1>
 
-<h3 align="center">A passionate Developer from the UK 🇬🇧</h3>
+<h3 align="center">developer and programmer from the uk <3</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **EXILED Plugin Development & Full Stack Web Development**
- 
- 🌱 I’m currently learning **React, APIs, and Advanced C#**
-
-💬 Ask me about **Node.js, C#, Java, Javascript [here](https://github.com/noahnightmare/noahnightmare/issues)**
-
-⚡ **I own, manage & develop for an SCP:SL server - [Noah's Nation](https://discord.gg/noahsnation)**
+ 🗡️ i leave all of my coding projects here. feel free to look around :)
 
  </div>
  
